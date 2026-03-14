@@ -176,8 +176,8 @@ class SharedDatasetTool:
     def __init__(self, root: tk.Tk) -> None:
         self.root = root
         self.root.title(APP_TITLE)
-        self.root.geometry("980x720")
-        self.root.minsize(920, 680)
+        self.root.geometry("1280x860")
+        self.root.minsize(1180, 800)
         self.root.configure(bg=CREAM)
         self.apply_window_icon()
 

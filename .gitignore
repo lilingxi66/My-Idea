@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+
+.shared_dataset_links.json
+
+*.spec
+!SharedDatasetTool.spec
+
+Thumbs.db
+.DS_Store
