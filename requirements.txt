@@ -1,0 +1,11 @@
+# Direct runtime dependencies required by this customized labelme project.
+# These are the Python packages the app imports directly; Conda runtime files
+# such as VC libraries, Qt DLLs, and the Python stdlib are intentionally excluded.
+
+matplotlib==3.3.4
+numpy==1.19.5
+Pillow==8.4.0
+PyQt5==5.12.3
+PyYAML==6.0.1
+QtPy==2.0.1
+termcolor==1.1.0
